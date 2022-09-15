@@ -8,6 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      color: Colors.grey,
       title: "My App",
       home: Homepage(),
     );
@@ -23,23 +24,15 @@ class Homepage extends StatefulWidget {
 
 class _HomepageState extends State<Homepage> {
   @override
-  String Mytext="Hello World";
+  int count=0;
   void _changelongText(){
     setState(() {
-      if(Mytext.startsWith('H')) {
-        Mytext = "You have long pressed it";
-      }else{
-        Mytext="You have long pressed it";
-      }
+        count=0;
     });
   }
   void _changeText() {
     setState(() {
-      if (Mytext.startsWith('H')) {
-        Mytext = "Welcome to my world";
-      } else {
-        Mytext = "Hello World";
-      }
+      count++;
     });
   }
     Widget _bodyText(){
@@ -50,13 +43,38 @@ class _HomepageState extends State<Homepage> {
         child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text(Mytext),
-              RaisedButton(
-                color: Colors.red,
-                child: Text("ClCK ME"),
+              Text("Counts",style: TextStyle(
+                color: Colors.black87,
+                fontSize: 40,
+              ),),
+
+              Text(count.toString(),style: TextStyle(
+                 color: Colors.black87,
+                 fontSize: 100,
+              ),),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                    children: [
+
+                      RaisedButton(
+                color: Colors.black,
+                child: Text("ClCK ME",style: TextStyle(
+                      color: Colors.white,
+                ),),
                 onPressed: _changeText ,
-                onLongPress: _changelongText,
+                //onLongPress: _changelongText,
               ),
+                      RaisedButton(
+                        color: Colors.black,
+                        child: Text("RESET",style: TextStyle(
+                          color:Colors.white,
+                        ),),
+                        onPressed: _changelongText,
+
+                      ),
+                    ],
+                  ),
+
             ]
         ),
       ),
@@ -67,10 +85,10 @@ class _HomepageState extends State<Homepage> {
     return Scaffold(
      appBar: AppBar(
        centerTitle: mounted,
-       backgroundColor: Colors.deepOrange,
-       title: Text("Home Page",style: TextStyle(
-         color: Colors.teal,
-         fontSize: 34,
+       backgroundColor: Colors.cyanAccent,
+       title: Text("CLICK IT!!!",style: TextStyle(
+         color: Colors.black87,
+         fontSize: 30,
        ),),
      ),
       body: _bodyText(),
