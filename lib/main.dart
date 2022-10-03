@@ -44,7 +44,7 @@ class _HomepageState extends State<Homepage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text("Counts",style: TextStyle(
-                color: Colors.black87,
+                color: Colors.red,
                 fontSize: 40,
               ),),
 
