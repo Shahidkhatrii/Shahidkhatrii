@@ -29,14 +29,11 @@ Here are some projects I've worked on:
 authentication and CRUD (Create, Read, Update, Delete) functionality for managing contacts efficiently.
    - **Tech Stack**: React.js, Axios, Node.js, Express.js, MongoDB, Mongoose, Semantic UI
    - **Description**: Implemented secure user authentication using bcrypt for password hashing and JWT (JSON Web Tokens) for user
-sessions, ensuring data privacy and security.
-• Utilized Axios for seamless API integration, simplifying HTTP requests and responses between the front-end and
-back-end of the contact manager app.
-• Employed React’s Context API to manage state and data flow efficiently, eliminating the need for prop drilling and
-ensuring a cleaner, more maintainable codebase.
-• Successfully deployed the MERN contact manager Web service and Static site on Render.
-• [Contact Manager App](https://contacts-manager-afev.onrender.com/)
+sessions, ensuring data privacy and security. Utilized Axios for seamless API integration, simplifying HTTP requests and responses between the front-end and
+back-end of the contact manager app. Employed React’s Context API to manage state and data flow efficiently, eliminating the need for prop drilling and
+ensuring a cleaner, more maintainable codebase. Successfully deployed the MERN contact manager Web service and Static site on Render.
 
+[Contact Manager App](https://contacts-manager-afev.onrender.com/)
 💙 If you like my projects, Give them ⭐ and Share it with friends!
 
 ## 🌱 Future Goals
