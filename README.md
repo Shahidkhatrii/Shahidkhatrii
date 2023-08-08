@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Mo. Shahid Khatri
 
 Final Year Electronics and Communication Student | Aspiring Software Engineer
 
@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a final year student pursuing Electronics and 
 - 🌱 I’m currently learning: Advanced React patterns, GraphQL, and server optimization.
 - 👯 I’m looking to collaborate on: Open-source projects and software development initiatives.
 - 💬 Ask me about: Anything related to software development, MERN stack, and electronics.
-- ⚡ Fun fact: I enjoy both coding and experimenting with electronic circuits.
 
 ## 🛠️ Tech Stack
 
@@ -26,13 +25,19 @@ Here are some technologies and tools I'm familiar with:
 
 Here are some projects I've worked on:
 
-1. **Project Name**: Brief project description
-   - **Tech Stack**: List of technologies used
-   - **Description**: A short overview of the project and its key features.
+1. **Contact Manager App**: Developed a fully functional MERN (MongoDB, Express.js, React.js, Node.js) contact manager application with user
+authentication and CRUD (Create, Read, Update, Delete) functionality for managing contacts efficiently.
+   - **Tech Stack**: React.js, Axios, Node.js, Express.js, MongoDB, Mongoose, Semantic UI
+   - **Description**: Implemented secure user authentication using bcrypt for password hashing and JWT (JSON Web Tokens) for user
+sessions, ensuring data privacy and security.
+• Utilized Axios for seamless API integration, simplifying HTTP requests and responses between the front-end and
+back-end of the contact manager app.
+• Employed React’s Context API to manage state and data flow efficiently, eliminating the need for prop drilling and
+ensuring a cleaner, more maintainable codebase.
+• Successfully deployed the MERN contact manager Web service and Static site on Render.
+• [Contact Manager App](https://contacts-manager-afev.onrender.com/)
 
-2. ...
-
-Feel free to check out my repositories to explore more projects!
+💙 If you like my projects, Give them ⭐ and Share it with friends!
 
 ## 🌱 Future Goals
 
@@ -46,9 +51,9 @@ I'm passionate about continuous learning and growth. Here are some of my future 
 
 I'm always open to new opportunities and connections. Let's get in touch:
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/YourLinkedInProfile)
-- Email: your.email@example.com
+- GitHub: [Shahidkhatrii](https://github.com/Shahidkhatrii)
+- LinkedIn: [mo-shahid-khatri](https://www.linkedin.com/in/mo-shahid-khatri-bb23611bb/)
+- Email: shahidkhatrixyz@gmail.com
 
 Feel free to reach out if you want to collaborate, discuss technology, or just have a friendly chat!
 
