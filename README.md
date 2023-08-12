@@ -1,59 +1,77 @@
-# Hi there! 👋 I'm Mo. Shahid Khatri
+<h2 align="left">Hi 👋! My name is Mo. Shahid Khatri</h2>
 
-Final Year Electronics and Communication Student | Aspiring Software Engineer
+###
 
-Welcome to my GitHub profile! I'm a final year student pursuing Electronics and Communication engineering with a passion for software development. I'm currently focused on honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack to build exciting and innovative projects.
+<p align="left">🚀 About Me<br>📔 I'm a final year student pursuing Electronics and Communication engineering with a passion for software development.<br>🔭 I’m currently working on: Developing web applications using the MERN stack.<br>🌱 I’m currently learning: Advanced React patterns, GraphQL, and server optimization.<br>👯 I’m looking to collaborate on: Open-source projects and software development initiatives.<br>💬 Ask me about: Anything related to software development, MERN stack, and electronics.</p>
 
-## 🚀 About Me
+###
 
-- 🔭 I’m currently working on: Developing web applications using the MERN stack.
-- 🌱 I’m currently learning: Advanced React patterns, GraphQL, and server optimization.
-- 👯 I’m looking to collaborate on: Open-source projects and software development initiatives.
-- 💬 Ask me about: Anything related to software development, MERN stack, and electronics.
+<br clear="both">
 
-## 🛠️ Tech Stack
+<h3 align="left">🛠️ Tech Stack</h3>
 
-Here are some technologies and tools I'm familiar with:
+###
 
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Version Control: Git
-- Tools: VS Code, Postman, npm
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+</div>
 
-## 📚 Projects
+###
 
-Here are some projects I've worked on:
+<h3 align="left">📚 Projects</h3>
 
-1. **Contact Manager App**: Developed a fully functional MERN (MongoDB, Express.js, React.js, Node.js) contact manager application with user
-authentication and CRUD (Create, Read, Update, Delete) functionality for managing contacts efficiently.
-   - **Tech Stack**: React.js, Axios, Node.js, Express.js, MongoDB, Mongoose, Semantic UI
-   - **Description**: Implemented secure user authentication using bcrypt for password hashing and JWT (JSON Web Tokens) for user
-sessions, ensuring data privacy and security. Utilized Axios for seamless API integration, simplifying HTTP requests and responses between the front-end and
-back-end of the contact manager app. Employed React’s Context API to manage state and data flow efficiently, eliminating the need for prop drilling and
-ensuring a cleaner, more maintainable codebase. Successfully deployed the MERN contact manager Web service and Static site on Render.
+###
 
-[Contact Manager App](https://contacts-manager-afev.onrender.com/)
-💙 If you like my projects, Give them ⭐ and Share it with friends!
+<p align="left">Contact Manager App: <br>Developed a fully functional MERN (MongoDB, Express.js, React.js, Node.js) contact manager application with user authentication and CRUD (Create, Read, Update, Delete) functionality for managing contacts efficiently.<br>Tech Stack: React.js, Axios, Node.js, Express.js, MongoDB, Mongoose, Semantic UI<br>Description: Implemented secure user authentication using bcrypt for password hashing and JWT (JSON Web Tokens) for user sessions, ensuring data privacy and security. <br><br>💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 
-## 🌱 Future Goals
+###
 
-I'm passionate about continuous learning and growth. Here are some of my future goals:
+<br clear="both">
 
-- Obtain a software engineering role where I can contribute to meaningful projects.
-- Contribute to open-source projects to give back to the community.
-- Keep enhancing my skills in software development and explore new technologies.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidkhatrii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidkhatrii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=shahidkhatrii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-## 📫 Let's Connect
+###
 
-I'm always open to new opportunities and connections. Let's get in touch:
+<h3 align="left">📫 Let's Connect</h3>
 
-- GitHub: [Shahidkhatrii](https://github.com/Shahidkhatrii)
-- LinkedIn: [mo-shahid-khatri](https://www.linkedin.com/in/mo-shahid-khatri-bb23611bb/)
-- Email: shahidkhatrixyz@gmail.com
+###
 
-Feel free to reach out if you want to collaborate, discuss technology, or just have a friendly chat!
+<div align="center">
+  <a href="https://www.linkedin.com/in/mo-shahid-khatri-bb23611bb" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-<!--
-Thank you for visiting my profile. Have a great day!
--->
+###
+
+<p align="left">Feel free to reach out if you want to collaborate, discuss technology, or just have a friendly chat!</p>
+
+###
