@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mo. Shahid Khatri</h2>
+<h2 align="center">Hi 👋! My name is Mohd Shahid Khatri</h2>
 
 ###
 
@@ -51,13 +51,13 @@
 ###
 
 <br clear="both">
-
-<div align="center">
+<div align="left">
+  <img src="https://leetcard.jacoblin.cool/shahidkhatrii?theme=dark&font=Istok%20Web&ext=activity" height="300" alt="LeetcodeStats"  />
+</div>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shahidkhatrii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidkhatrii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=shahidkhatrii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-<div align="center">
   <img src="https://holopin.me/shahidkhatrii" height="150" alt="Hacktoberfest"  />
 </div>
 
