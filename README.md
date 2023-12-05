@@ -15,7 +15,7 @@
 
 
 ### About Me:
-  - Hi! My name is Mohd Shahid Khatri. Currently, I am a final-year student pursuing a Bachelor’s of
+  - Currently, I am a final-year student pursuing a Bachelor’s of
 Technology in Electronics and Communication at UIT RGPV.
   - Specialization in software engineering with proficiency in C++, JavaScript, React, NodeJS, HTML, and CSS.
   - Hands-on experience with the MERN stack, showcasing a Real-Time Chat Application with Socket.io for seamless communication.
