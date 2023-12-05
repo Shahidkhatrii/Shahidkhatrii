@@ -11,8 +11,20 @@
  </div>
 
 
-<h3 align="left">🚀 About Me</h3>
-<p align="left">📔 I'm a final year student pursuing Electronics and Communication engineering with a passion for software development.<br>🔭 I’m currently working on: Developing web applications using the MERN stack.<br>🌱 I’m currently learning: Advanced React patterns, NextJs, and server optimization.<br>👯 I’m looking to collaborate on: Open-source projects and software development initiatives.<br>💬 Ask me about: Anything related to software development, MERN stack, and electronics.</p>
+
+
+
+### About Me:
+  - Hi! My name is Mohd Shahid Khatri. Currently, I am a final-year student pursuing a Bachelor’s of
+Technology in Electronics and Communication at UIT RGPV.
+  - Specialization in software engineering with proficiency in C++, JavaScript, React, NodeJS, HTML, and CSS.
+  - Hands-on experience with the MERN stack, showcasing a Real-Time Chat Application with Socket.io for seamless communication.
+  - Developed a Contact Manager application with CRUD operations, authentication, and a clean user interface.
+  - Designed a Chrome extension in JavaScript providing word definitions, meanings, pronunciation, and audio support.
+  - Active participant in Hacktoberfest’23, resolving four issues in React and vanilla JavaScript projects and receiving digital rewards.
+  - Strong understanding of data structures and algorithms, solving over 300+ LeetCode questions.
+  - Actively seeking internship or remote position in the software development field.
+
 <br clear="both">
 
  ### 🏆 GitHub Trophies
@@ -51,16 +63,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
-
-<br clear="both">
-
-<h3 align="left">📚 Projects</h3>
-
-###
-
-<p align="left">Contact Manager App: <br>Developed a fully functional MERN (MongoDB, Express.js, React.js, Node.js) contact manager application with user authentication and CRUD (Create, Read, Update, Delete) functionality for managing contacts efficiently.<br>Tech Stack: React.js, Axios, Node.js, Express.js, MongoDB, Mongoose, Semantic UI<br>Description: Implemented secure user authentication using bcrypt for password hashing and JWT (JSON Web Tokens) for user sessions, ensuring data privacy and security. <br><br>💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-
-###
 
 <br clear="both">
 
