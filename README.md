@@ -17,13 +17,13 @@
 ### About Me:
   - Currently, I am a final-year student pursuing a Bachelor’s of
 Technology in Electronics and Communication at UIT RGPV.
-  - Specialization in software engineering with proficiency in C++, JavaScript, React, NodeJS, HTML, and CSS.
+  - Specialization in software engineering with proficiency in C++, JavaScript, React, NodeJs, ExpressJs.
   - Hands-on experience with the MERN stack, showcasing a Real-Time Chat Application with Socket.io for seamless communication.
   - Developed a Contact Manager application with CRUD operations, authentication, and a clean user interface.
   - Designed a Chrome extension in JavaScript providing word definitions, meanings, pronunciation, and audio support.
   - Active participant in Hacktoberfest’23, resolving four issues in React and vanilla JavaScript projects and receiving digital rewards.
   - Strong understanding of data structures and algorithms, solving over 300+ LeetCode questions.
-  - Actively seeking internship or remote position in the software development field.
+  - Actively seeking internship/full-time position in the software development field.
 
 <br clear="both">
 
