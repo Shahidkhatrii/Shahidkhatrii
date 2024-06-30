@@ -15,8 +15,8 @@
 
 
 ### About Me:
-  - Currently, I am a final-year student pursuing a Bachelor’s of
-Technology in Electronics and Communication at UIT RGPV.
+  - Currently, I am a recent graduate with a Bachelor’s of
+Technology in Electronics and Communication from UIT RGPV.
   - Specialization in software engineering with proficiency in C++, JavaScript, React, NodeJs, ExpressJs.
   - Hands-on experience with the MERN stack, showcasing a Real-Time Chat Application with Socket.io for seamless communication.
   - Developed a Contact Manager application with CRUD operations, authentication, and a clean user interface.
@@ -79,10 +79,6 @@ Technology in Electronics and Communication at UIT RGPV.
 <div align="left">
   <img src="https://leetcard.jacoblin.cool/shahidkhatrii?theme=dark&font=Istok%20Web&ext=activity" height="300" alt="LeetcodeStats"  />
 </div>
-
-
-### Best part of my README!😂 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <p align="left">Feel free to reach out if you want to collaborate, discuss technology, or just have a friendly chat!</p>
 
